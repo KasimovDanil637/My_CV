@@ -22,6 +22,7 @@ body{
     display: flex;
 }
 .header-block-photo{
+    width: 270px;
     background-color:#272727;
 }
 .header__photo{
@@ -147,7 +148,7 @@ body{
     padding-left: 70px;
 }
 .icon-web{
-    padding-right: 70px;
+    margin-right: 70px;
     width: 70px;
 }
 .footer__block-left{
