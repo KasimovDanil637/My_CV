@@ -99,6 +99,7 @@ body{
     background-color: #272727;
 }
 .block-right-text{
+    width: 500px;
     margin-left: 50px;
     font-family: "roboto!",sans-serif;
 }
